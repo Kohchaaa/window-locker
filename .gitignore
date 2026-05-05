@@ -26,6 +26,7 @@ metaList
 .vs/
 .idea/
 .vscode/
+*.code-workspace
 .consulo/
 *.csproj
 *.unityproj

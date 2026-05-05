@@ -1,8 +1,8 @@
 {
-    "name": "template.Editor",
+    "name": "jp.kohchaaa.window-locker.Editor",
     "rootNamespace": "",
     "references": [
-        "jp.kohchaaa.template"
+        "jp.kohchaaa.window-locker"
     ],
     "includePlatforms": [
         "Editor"

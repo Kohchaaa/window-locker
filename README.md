@@ -1,1 +1,3 @@
-# vpm-package-template
+# Window Locker
+ショートカットキーでエディターウインドウのロック状態を切り替えられるツールです。
+InspectorやProjectの右上のちっちゃいロックボタンを押すのがしんどいので作りました。
