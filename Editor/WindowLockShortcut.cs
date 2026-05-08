@@ -25,7 +25,8 @@ public static class WindowLockShortcut
 
             focusedWindow.Repaint();
 
-            Debug.Log($"{windowType.Name} をロックしました。");
+            string stateMessage = currentState ? "ロック" : "ロック解除";
+            Debug.Log($"[{windowType.Name}] を{stateMessage}。");
         }
         else
         {
